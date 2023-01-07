@@ -1,7 +1,8 @@
 # STM32 Templates
 
-This templates are based on the book "stm32 Microcontroller - Programming and Development" located in [here](https://drive.google.com/file/d/1WbbreLDAR6WvoAmFCadmCWHDoyuoGC_S/view?usp=sharing).
+This templates are based on the book "stm32 Microcontroller - Programming and Development" located in [here](https://drive.google.com/file/d/1WbbreLDAR6WvoAmFCadmCWHDoyuoGC_S/view?usp=sharing).  
 
+All projected are compiled using Keil uVision 5.
 
 ## Note for Timer configuration
 Quick guide on how to define values for Preescaler and Counter Period:
